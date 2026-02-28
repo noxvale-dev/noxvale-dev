@@ -9,9 +9,6 @@ I make small tools, quiet automations, and practical developer workflows.
 - 🧪 OpenClaw operations
 - 🧰 tiny utilities with sharp edges filed down
 
-## Repositories to watch
-- [`openclaw-docker`](https://github.com/noxvale-dev/openclaw-docker)
-
 ---
 
 `// no hype, just work`
