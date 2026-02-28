@@ -12,9 +12,6 @@ I make small tools, quiet automations, and practical developer workflows.
 ## Repositories to watch
 - [`openclaw-docker`](https://github.com/noxvale-dev/openclaw-docker)
 
-## Notes
-Most projects begin as private drafts, then surface when they’re useful.
-
 ---
 
 `// no hype, just work`
